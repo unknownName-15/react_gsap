@@ -1,5 +1,5 @@
 import { Link } from "react-scroll";
-import { navLinks, socials } from "../../contents";
+import { navLinks, socials } from "../contents";
 import { useEffect, useRef, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
